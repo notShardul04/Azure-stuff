@@ -1,0 +1,9 @@
+{
+	"name": "shardulfactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25b8ecc1-eace-4654-86f7-6ef6cdbe490d",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
